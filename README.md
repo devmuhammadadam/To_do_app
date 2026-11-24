@@ -2,7 +2,7 @@
 
 ![Daily-Tasks](./screenshot/tasks.png)
 
-- **Live Site**: https://muhammad-abdusalam.github.io/To_do_app/
+- **Live Site**: https://devmuhammadadam.github.io/To_do_app/
 
 ### Built with ⚒️
 
@@ -12,4 +12,4 @@
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
